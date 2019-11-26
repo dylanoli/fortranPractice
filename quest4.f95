@@ -4,9 +4,9 @@ program quest4
     real num1,num2
 
     print*,"Digite num1:"
-    read (*,*),num1
+    read (*,*) num1
     print*,"Digite num2:"
-    read (*,*),num2
+    read (*,*) num2
 
     print*,"Adicao:"
     print "(f6.2)",(num1 + num2)
